@@ -1,0 +1,21 @@
+{
+  "name": "ionic-common-library",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaesung",
+    "email": "jae578@nate.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "main": "ionic-common-library.umd.js",
+  "module": "ionic-common-library.js",
+  "jsnext:main": "ionic-common-library.js",
+  "typings": "ionic-common-library.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
