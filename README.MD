@@ -1,6 +1,6 @@
 # ng-focus-directive
 
-jaesung
+yunseok
 ## Installation
 
 To install this library, run:
